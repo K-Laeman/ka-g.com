@@ -1,0 +1,43 @@
+const productList = [
+    // sticker
+    { title: 'สติกเกอร์ม้วน เทคนิคพิเศษ', cat: 's1', coverImage: '/assets/product/sticker/sticker-01.webp' },
+    { title: 'สติกเกอร์ม้วน เทคนิคพิเศษ', cat: 's1', coverImage: '/assets/product/sticker/sticker-02.webp' },
+    { title: 'สติกเกอร์ม้วน เทคนิคพิเศษ', cat: 's1', coverImage: '/assets/product/sticker/sticker-03.webp' },
+    { title: 'สติกเกอร์ม้วน เทคนิคพิเศษ', cat: 's1', coverImage: '/assets/product/sticker/sticker-04.webp' },
+    { title: 'สติกเกอร์ม้วน เทคนิคพิเศษ', cat: 's1', coverImage: '/assets/product/sticker/sticker-05.webp' },
+    { title: 'สติกเกอร์ม้วน เทคนิคพิเศษ', cat: 's1', coverImage: '/assets/product/sticker/sticker-06.webp' },
+    { title: 'สติกเกอร์ม้วน เทคนิคพิเศษ', cat: 's1', coverImage: '/assets/product/sticker/sticker-07.webp' },
+    { title: 'สติกเกอร์ม้วน เทคนิคพิเศษ', cat: 's1', coverImage: '/assets/product/sticker/sticker-08.webp' },
+    { title: 'สติกเกอร์ม้วน เทคนิคพิเศษ', cat: 's1', coverImage: '/assets/product/sticker/sticker-09.webp' },
+    { title: 'สติกเกอร์ม้วน เทคนิคพิเศษ', cat: 's1', coverImage: '/assets/product/sticker/sticker-10.webp' },
+    { title: 'สติกเกอร์ม้วน เทคนิคพิเศษ', cat: 's1', coverImage: '/assets/product/sticker/sticker-11.webp' },
+    { title: 'สติกเกอร์ม้วน เทคนิคพิเศษ', cat: 's1', coverImage: '/assets/product/sticker/sticker-12.webp' },
+    { title: 'สติกเกอร์ม้วน เทคนิคพิเศษ', cat: 's1', coverImage: '/assets/product/sticker/sticker-13.webp' },
+    { title: 'สติกเกอร์ม้วน เทคนิคพิเศษ', cat: 's1', coverImage: '/assets/product/sticker/sticker-14.webp' },
+    { title: 'สติกเกอร์ม้วน เทคนิคพิเศษ', cat: 's1', coverImage: '/assets/product/sticker/sticker-15.webp' },
+    // premium
+    { title: 'งานถุง', cat: 'p1', coverImage: '/assets/product/premium/bag-01.webp' },
+    { title: 'งานถุง', cat: 'p1', coverImage: '/assets/product/premium/bag-02.webp' },
+    { title: 'งานถุง', cat: 'p1', coverImage: '/assets/product/premium/bag-03.webp' },
+    { title: 'งานกล่อง', cat: 'p1', coverImage: '/assets/product/premium/box-premium-03.webp' },
+    { title: 'งานกล่อง', cat: 'p1', coverImage: '/assets/product/premium/brooch-01.webp' },
+    { title: 'งานกล่อง', cat: 'p1', coverImage: '/assets/product/premium/brooch-02.webp' },
+    { title: 'งานกล่อง', cat: 'p1', coverImage: '/assets/product/premium/brooch-03.webp' },
+    { title: 'งานกล่อง', cat: 'p1', coverImage: '/assets/product/premium/brooch-04.webp' },
+    { title: 'งานกล่อง', cat: 'p1', coverImage: '/assets/product/premium/brooch-05.webp' },
+    //poster
+    { title: 'แผ่นพับ โบรชัวร์', cat: 'po1', coverImage: '/assets/product/poster/broture-01.webp' },
+    { title: 'แผ่นพับ โบรชัวร์', cat: 'po1', coverImage: '/assets/product/poster/broture-02.webp' },
+    { title: 'แผ่นพับ โบรชัวร์', cat: 'po1', coverImage: '/assets/product/poster/broture-03.webp' },
+    { title: 'แผ่นพับ โบรชัวร์', cat: 'po1', coverImage: '/assets/product/poster/broture-04.webp' },
+    { title: 'แผ่นพับ โบรชัวร์', cat: 'po1', coverImage: '/assets/product/poster/broture-05.webp' },
+    { title: 'แผ่นพับ โบรชัวร์', cat: 'po1', coverImage: '/assets/product/poster/poster-01.webp' },
+    { title: 'แผ่นพับ โบรชัวร์', cat: 'po1', coverImage: '/assets/product/poster/poster-02.webp' },
+    { title: 'แผ่นพับ โบรชัวร์', cat: 'po1', coverImage: '/assets/product/poster/poster-04.webp' },
+    { title: 'แผ่นพับ โบรชัวร์', cat: 'po1', coverImage: '/assets/product/poster/poster-05.webp' },
+    { title: 'แผ่นพับ โบรชัวร์', cat: 'po1', coverImage: '/assets/product/poster/poster-06.webp' },
+    { title: 'แผ่นพับ โบรชัวร์', cat: 'po1', coverImage: '/assets/product/poster/poster-07.webp' },
+    { title: 'แผ่นพับ โบรชัวร์', cat: 'po1', coverImage: '/assets/product/poster/poster-08.webp' },
+]
+
+export default productList
