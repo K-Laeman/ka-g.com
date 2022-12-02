@@ -11,7 +11,7 @@ const HeroSection = () => {
                         <h1 className="text-4xl md:text-6xl font-bold">{'โรงพิมพ์อันดับ '}<span className=" text-5xl md:text-8xl font-bold text-green-600">{'1'}</span></h1>
                         <h2 className="text-2xl md:text-5xl text-gray-800">{'ที่ลูกค้าทั่วประเทศไว้วางใจ'}</h2>
                     </div>
-                    <div className='flex w-full items-center justify-center px-6'>
+                    <div className='flex w-full items-center justify-center px-6 md:px-0'>
                         <p className="flex w-72 md:w-fit text-xl text-center md:text-start md:text-3xl font-light text-gray-600">
                             {`ให้คำปรึกษา เป็นเพื่อนคู่คิด พร้อมช่วยให้ธุรกิจประสบความสำเร็จ`}
                         </p>
