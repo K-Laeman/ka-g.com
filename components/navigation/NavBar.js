@@ -12,8 +12,9 @@ const NavBar = () => {
     return (
         <nav className=" fixed flex w-full bg-white shadow-xl z-50 px-6 md:px-0">
             <div className="flex justify-between items-center max-w-6xl mx-auto w-full py-4">
-                <Link href={'/'} className="text-xl font-bold">
-                    <Image src={'/logo.png'} width={52} height={52} />
+                <Link href={'/'} className="flex items-center gap-2 text-3xl">
+                    <Image src={'/logo.png'} width={80} height={80} />
+                    <h1 className=" font-semibold uppercase">{'pac'}<span className="text-green-500 font-bold">{'kag'}</span>{'ing'}</h1>
                 </Link>
                 <ul className="flex gap-6">
                     {

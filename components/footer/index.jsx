@@ -3,13 +3,13 @@ import Image from "next/image"
 const Footer = () => {
     return (
         <div className="flex w-full py-6 md:py-24 z-50 shadow-[0_-2px_24px_rgba(0,0,0,0.15)]">
-            <div className="flex flex-col md:flex-row max-w-6xl mx-auto w-full gap-6">
-                <div className="flex flex-col items-center md:items-start md:flex-row md:w-2/3 gap-12">
-                    <Image src={'/logo.png'} alt={'ka-g logo'} width={164} height={180} />
+            <div className="flex flex-col items-center md:flex-row max-w-6xl mx-auto w-full gap-6">
+                <div className="flex flex-col items-center  md:items-center md:flex-row md:w-2/3 gap-12">
+                    <Image src={'/logo-1.png'} alt={'ka-g logo'} width={164} height={180} />
                     <p className="font-light md:text-xl px-6 md:px-0">
-                        {`King of Advertising and Graphic Co.,Ltd.
-                        บริษัท คิงออฟแอดเวอร์ไทซิ่งแอนด์กราฟฟิค จำกัด/url
-                        เลขที่ 204/6-7 ถนนสุรวงศ์  แขวงสี่พระยา เขตบางรัก กรุงเทพฯ 10500`}
+                        {`KING PACKAGING CO.,LTD
+                        บริษัท คิงแพคเกจจิ้ง
+                        เลขที่ 33 เพชรเกษม 41 แขวงบางแค เขตบางแค เขตบางรัก กรุงเทพฯ 10160`}
                     </p>
                 </div>
                 <div className="flex flex-col justify-center items-center md:w-1/3 gap-4" >
